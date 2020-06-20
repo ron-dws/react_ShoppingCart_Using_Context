@@ -1,3 +1,5 @@
+We are building a functional shoping cart sample in react using the Context library to share state data among components
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
