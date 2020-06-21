@@ -31,7 +31,7 @@ export const InCart = () => {
             <ul style={{listStyle:"none", display:"flex", margin:"5px", width:"100%", justifyContent:"center"}}>
               <li style={{padding:"10px"}}>{val.name}</li>
               <li style={{padding:"10px"}}>{val.price}</li>
-              <li style={{padding:"13px", color:"white", width:"50px", height:"50px", borderRadius:"100%", cursor:"pointer", background:"red"}} onClick={ e => deletePrdc(e, index) }>X</li>
+              <li style={{padding:"1px", marginTop:"10px", color:"white", width:"25px", height:"25px", borderRadius:"100%", cursor:"pointer", background:"red"}} onClick={ e => deletePrdc(e, index) }>X</li>
             </ul>
           </div> 
       ));
