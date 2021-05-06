@@ -1,4 +1,5 @@
-<h1>Building a front end online order app</h1>
+<h1>Building a food online order app</h1>
+<h3>Front End Focus (React)</h3>
    <ul style=" list-style: none; color: blue; ">
      <li>I will point to different end points to fetch products</li>
      <li>All the filtering will be done on the client side</li>
